@@ -1,0 +1,35 @@
+body { 
+    margin: 0; 
+    padding: 0;
+    font-family: Arial, sans-serif;
+} 
+ 
+header { 
+    background-image: url(R.jpg);
+    background-size: cover; /* Cover the entire header area */ 
+    background-position: center; /* Center the image */ 
+    min-height: 60px;
+    width: 1rem 0;
+    position: sticky;
+    justify-content: center; /* Horizontally center the content */
+    top: 0;
+    padding: 10px ;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+} 
+footer{
+    background-color: coral;
+    padding: 12px;
+    text-align: center;
+}
+nav{
+    text-decoration: none;
+    color: rgb(255, 250, 250);
+    background-color: rgb(84, 183, 187);
+    padding: 10px;
+    top: 0
+}
+a{
+    text-align: center;
+}
